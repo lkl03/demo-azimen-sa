@@ -1,2 +1,7 @@
-# demo-azimen-sa
-Demo web para Azimen Sa — diseñada por eterlab.
+# Azimen Sa
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
